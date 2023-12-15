@@ -1,2 +1,3 @@
-name = Timothée DAGANY
-emial = timothee@dagany.com
+[User]
+        name = Timothée DAGANY
+        email = timothee@dagany.com
